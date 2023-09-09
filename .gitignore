@@ -1,0 +1,5 @@
+dist
+quick_perf_tracer.egg-info
+.idea
+build
+MANIFEST.IN
